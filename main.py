@@ -2,7 +2,7 @@ def add(a, b):
     """Gibt die Summe von a und b zurück."""
     return a + b
 
-# Hier sollen die Schüler die Funktionen für Subtraktion, Multiplikation und Division selbst erstellen.
+# Hier ddoksdoksodkssollen die Schüler die Funktionen für Subtraktion, Multiplikation und Division selbst erstellen.
 
 print("Willkommen beim Taschenrechner!")
 print("Wähle eine Operation:")
